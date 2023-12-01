@@ -1,0 +1,202 @@
+@media screen and (max-width:1568px) {
+    .wolf .wolf-title {
+        margin-bottom: 20px;
+    }
+
+    .wolf .wolf-content p {
+        font-size: 19px;
+    }
+
+    .monkey .monkey-content {
+        font-size: 17px;
+    }
+}
+
+@media screen and (max-width:1276px) {
+    .monkey .monkey-title {
+        width: 71%;
+    }
+
+    footer {
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+}
+
+@media screen and (max-width:910px) {
+    .wolf .wolf-content p {
+        font-size: 16px;
+        width: 80%;
+        margin: auto;
+    }
+
+    .monkey .monkey-title {
+        width: 60%;
+    }
+
+    footer .overlay .footer-title {
+        font-size: 14px;
+    }
+
+    footer .overlay .description {
+        font-size: 14px;
+    }
+
+    .wolf {
+        height: 600px;
+    }
+
+    .monkey {
+        height: 600px;
+    }
+}
+
+@media screen and (max-width:850px) {
+    header nav {
+        width: 80%;
+        left: 10%;
+        right: 10%;
+        /* margin: auto; */
+    }
+
+    .wolf .wolf-content p {
+        margin: 0;
+        width: 70%;
+    }
+
+    .monkey .monkey-title {
+        width: 50%;
+    }
+
+    .wolf {
+        height: 550px;
+    }
+
+    .monkey {
+        height: 550px;
+    }
+}
+
+@media screen and (max-width:665px) {
+    .wolf .wolf-title h1 {
+        font-size: 23px;
+    }
+
+    .wolf .wolf-title p {
+        font-size: 15px;
+    }
+
+    .wolf .wolf-content p {
+        font-size: 15px;
+    }
+
+    .monkey .monkey-title h1 {
+        font-size: 23px;
+    }
+
+    .monkey .monkey-content {
+        font-size: 15px;
+    }
+
+    footer .overlay .description {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width:630px) {
+    .moon {
+        top: 88%;
+        left: 45%;
+        width: 70px;
+    }
+
+    .wolf {
+        height: 400px;
+    }
+
+    .monkey {
+        height: 400px;
+    }
+
+    .wolf .wolf-content p {
+
+        font-size: 12px;
+
+    }
+
+    .monkey .monkey-content {
+        font-size: 11px;
+    }
+
+    footer .overlay form {
+        width: 350px;
+    }
+}
+
+@media screen and (max-width:446px) {
+    nav ul li a {
+        font-size: 15px;
+    }
+
+    .wolf .wolf-title h1 {
+        font-size: 20px;
+    }
+
+    .wolf .wolf-title p {
+        font-size: 12px;
+        width: 70%;
+        margin: auto;
+        margin-top: 10px;
+    }
+
+    .wolf {
+        height: 300px;
+    }
+
+    .monkey {
+        height: 300px;
+    }
+
+    .wolf .wolf-content p {
+        font-size: 10px;
+    }
+
+    .monkey .monkey-title h1 {
+        font-size: 17px;
+    }
+
+    .monkey .monkey-title p {
+        font-size: 12px;
+        margin-top: 10px;
+    }
+
+    .t {
+        font-size: 9px;
+    }
+
+    .footer-title h1 {
+        font-size: 20px;
+    }
+
+    .overlay form {
+        width: 300px;
+    }
+
+    .footer-title p {
+        font-size: 10px;
+    }
+
+    .social ul li a {
+        font-size: 30px;
+    }
+
+    .social {
+        width: 80%;
+    }
+}
+
+@media screen and (max-width:400px) {
+    footer .overlay form {
+        width: 300px;
+    }
+}
